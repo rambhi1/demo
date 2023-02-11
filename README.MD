@@ -1,3 +1,3 @@
 # Demo
 
-Demo projecit for git hub.
+Demo projecit for git hub!
